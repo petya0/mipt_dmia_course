@@ -1,1 +1,1 @@
-MIPT Data Mining in Action course 2016
+# MIPT Data Mining in Action course 2016
